@@ -1,0 +1,30 @@
+{
+  "name": "cookie-batch",
+  "version": "0.0.2",
+  "description": "Cookie Manager for client",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davidchase/cookie-batch.git"
+  },
+  "keywords": [
+    "cookie",
+    "cookie-manager"
+  ],
+  "author": "David Chase",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidchase/cookie-batch/issues"
+  },
+  "homepage": "https://github.com/davidchase/cookie-batch",
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^2.0.1"
+  }
+}
